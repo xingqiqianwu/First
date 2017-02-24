@@ -1,0 +1,182 @@
+[INFO] +- com.renrendai:renrendai-util:jar:3.0-SNAPSHOT:compile
+[INFO] |  +- nazca:nazca-common:jar:1.0:compile
+[INFO] |  +- commons-lang:commons-lang:jar:2.5:compile
+[INFO] |  +- org.apache.commons:commons-lang3:jar:3.1:compile
+[INFO] |  +- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] |  +- com.google.code.gson:gson:jar:2.2.2:compile
+[INFO] |  +- commons-codec:commons-codec:jar:1.4:compile
+[INFO] |  +- jmimemagic:jmimemagic:jar:0.1.2:compile
+[INFO] |  |  +- oro:oro:jar:2.0.8:compile
+[INFO] |  |  \- xml-apis:xmlParserAPIs:jar:2.0.2:compile
+[INFO] |  +- org.patchca:patchca:jar:0.5.0:compile
+[INFO] |  +- com.alibaba:fastjson:jar:1.1.41:compile
+[INFO] |  +- org.slf4j:slf4j-log4j12:jar:1.7.2:compile
+[INFO] |  +- joda-time:joda-time:jar:2.1:compile
+[INFO] |  \- com.github.cage:cage:jar:1.0:compile
+[INFO] +- com.renrendai:renrendai-core:jar:3.0-SNAPSHOT:compile
+[INFO] |  +- com.renrendai:renrendai-mkt-rely:jar:3.0-SNAPSHOT:compile
+[INFO] |  +- com.renrendai:dist-redis:jar:0.1:compile
+[INFO] |  +- com.renrendai:renrendai-api-security:jar:4.0.0:compile
+[INFO] |  +- com.renrendai.check:check-rely:jar:0.0.1-SNAPSHOT:compile
+[INFO] |  +- renrendai:renrendai-ordercenter:jar:0.0.1-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework.data:spring-data-redis:jar:1.3.0.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-webmvc:jar:3.1.1.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-jms:jar:3.1.1.RELEASE:compile
+[INFO] |  |  +- com.alibaba:druid:jar:1.0.2:compile
+[INFO] |  |  +- org.mybatis:mybatis:jar:3.2.4:compile
+[INFO] |  |  +- org.mybatis:mybatis-spring:jar:1.2.2:compile
+[INFO] |  |  +- org.codehaus.jackson:jackson-mapper-lgpl:jar:1.8.1:compile
+[INFO] |  |  |  \- org.codehaus.jackson:jackson-core-lgpl:jar:1.8.1:compile
+[INFO] |  |  +- org.slf4j:jul-to-slf4j:jar:1.7.5:compile
+[INFO] |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.5:compile
+[INFO] |  |  +- org.slf4j:log4j-over-slf4j:jar:1.7.5:compile
+[INFO] |  |  +- org.perf4j:perf4j:jar:0.9.16:compile
+[INFO] |  |  +- jstl:jstl:jar:1.2:compile
+[INFO] |  |  +- org.sitemesh:sitemesh:jar:3.0-alpha-2:compile
+[INFO] |  |  \- org.apache.commons:commons-pool2:jar:2.0:compile
+[INFO] |  +- com.renrendai.framework:framework-all:jar:2.1.0:compile
+[INFO] |  |  +- com.renrendai.framework:framework-context:jar:2.1.0:compile
+[INFO] |  |  |  +- org.apache.commons:commons-collections4:jar:4.0:compile
+[INFO] |  |  |  \- org.apache.commons:commons-digester3:jar:3.2:compile
+[INFO] |  |  +- com.renrendai.framework:framework-common:jar:2.1.0:compile
+[INFO] |  |  +- com.renrendai.framework:framework-core:jar:2.1.0:compile
+[INFO] |  |  +- com.renrendai.framework:framework-service:jar:2.1.0:compile
+[INFO] |  |  +- com.renrendai.framework:framework-event:jar:2.1.0:compile
+[INFO] |  |  |  \- org.springframework.amqp:spring-rabbit:jar:1.4.5.RELEASE:compile
+[INFO] |  |  |     +- com.rabbitmq:amqp-client:jar:3.5.1:compile
+[INFO] |  |  |     +- org.springframework.amqp:spring-amqp:jar:1.4.5.RELEASE:compile
+[INFO] |  |  |     \- org.springframework:spring-messaging:jar:4.1.6.RELEASE:compile
+[INFO] |  |  +- com.renrendai.framework:framework-crud:jar:2.1.0:compile
+[INFO] |  |  +- com.renrendai.framework:framework-test:jar:2.1.0:compile
+[INFO] |  |  +- com.renrendai.framework:framework-cache:jar:2.1.0:compile
+[INFO] |  |  \- com.renrendai.framework:framework-util:jar:2.1.0:compile
+[INFO] |  +- com.renrendai.rsps:fund-api:jar:1.2.0-SNAPSHOT:compile
+[INFO] |  +- com.we.marketing:marketing-rely:jar:0.0.1-DEV-SNAPSHOT:compile
+[INFO] |  +- org.hibernate:hibernate-annotations:jar:3.5.2-Final:compile
+[INFO] |  |  +- org.hibernate:hibernate-core:jar:3.5.2-Final:compile
+[INFO] |  |  |  +- antlr:antlr:jar:2.7.6:compile
+[INFO] |  |  |  \- javax.transaction:jta:jar:1.1:compile
+[INFO] |  |  +- org.hibernate:hibernate-commons-annotations:jar:3.2.0.Final:compile
+[INFO] |  |  \- org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.0.Final:compile
+[INFO] |  +- redis.clients:jedis:jar:2.4.1:compile
+[INFO] |  +- cn.emay:emayclient:jar:4.3.0_2013_newurl:compile
+[INFO] |  +- dnapay-service-thirdpart:dnapay-service-thirdpart:jar:1.1:compile
+[INFO] |  +- org.apache.lucene:lucene-core:jar:3.0.2:compile
+[INFO] |  +- net.sf.json-lib:json-lib:jar:jdk15:2.4:compile
+[INFO] |  |  \- net.sf.ezmorph:ezmorph:jar:1.0.6:compile
+[INFO] |  +- com.sun.mail:javax.mail:jar:1.4.4:compile
+[INFO] |  |  \- javax.activation:activation:jar:1.1:compile
+[INFO] |  +- com.caucho:hessian:jar:3.1.3:compile
+[INFO] |  +- org.jsoup:jsoup:jar:1.3.1:compile
+[INFO] |  +- org.codehaus.jackson:jackson-mapper-asl:jar:1.9.11:compile
+[INFO] |  +- org.apache.cxf:cxf-api:jar:2.7.7:compile
+[INFO] |  |  +- org.codehaus.woodstox:woodstox-core-asl:jar:4.2.0:compile
+[INFO] |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.1:compile
+[INFO] |  |  +- org.apache.ws.xmlschema:xmlschema-core:jar:2.0.3:compile
+[INFO] |  |  \- org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1:compile
+[INFO] |  +- javax.xml.bind:jaxb-api:jar:2.2.11:compile
+[INFO] |  +- org.apache.httpcomponents:httpmime:jar:4.2.3:compile
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.2.2:compile
+[INFO] |  +- org.apache.httpcomponents:fluent-hc:jar:4.2.3:compile
+[INFO] |  +- org.apache.httpcomponents:httpclient-cache:jar:4.2.2:compile
+[INFO] |  +- commons-pool:commons-pool:jar:1.6:compile
+[INFO] |  +- com.qq.connect:qq-connect:jar:2.0:compile
+[INFO] |  +- org.jdom:jdom:jar:1.1:compile
+[INFO] |  +- commons-configuration:commons-configuration:jar:1.6:compile
+[INFO] |  |  \- commons-beanutils:commons-beanutils-core:jar:1.8.0:compile
+[INFO] |  +- org.jibx:jibx-run:jar:1.2:compile
+[INFO] |  |  \- org.codehaus.woodstox:wstx-asl:jar:3.2.1:compile
+[INFO] |  +- com.bill99:fo-jibx-settlement:jar:1.0.2:compile
+[INFO] |  +- com.bill99:if-crypto-sdk:jar:3.3.2:compile
+[INFO] |  +- com.bill99:if-jibx-schema-asap:jar:1.0:compile
+[INFO] |  +- com.bill99:if-jibx-schema-commons:jar:1.0.1:compile
+[INFO] |  +- com.bill99:if-util:jar:3.2.8:compile
+[INFO] |  +- com.bill99:fo-jibx-common:jar:1.0.2:compile
+[INFO] |  +- bouncycastle:bcprov-jdk14:jar:138:compile
+[INFO] |  +- com.sun.jersey:jersey-client:jar:1.11:compile
+[INFO] |  +- com.sun.jersey:jersey-core:jar:1.11:compile
+[INFO] |  +- com.sun.jersey.contribs:jersey-multipart:jar:1.11:compile
+[INFO] |  |  \- org.jvnet:mimepull:jar:1.6:compile
+[INFO] |  +- com.google.zxing:client:jar:client:2.2:compile
+[INFO] |  +- com.google.zxing:core:jar:2.2:compile
+[INFO] |  +- javax.xml.rpc:javax.xml.rpc-api:jar:1.1.1:compile
+[INFO] |  +- org.apache.axis:axis:jar:1.4:compile
+[INFO] |  +- wsdl4j:wsdl4j:jar:1.6.3:compile
+[INFO] |  +- commons-discovery:commons-discovery:jar:0.5:compile
+[INFO] |  +- javacommon:xsqlbuilder:jar:1.0:compile
+[INFO] |  +- cfca:BouncyCastle_CFCA:jar:3.1.0.5:compile
+[INFO] |  +- com.chinaums:svcIfclient:jar:1.0:compile
+[INFO] |  +- org.springframework.retry:spring-retry:jar:1.1.2.RELEASE:compile
+[INFO] |  \- com.we.user:user-rely:jar:0.0.1-SNAPSHOT:compile
+[INFO] +- com.renrendai:renrendai-partner:jar:3.0-SNAPSHOT:compile
+[INFO] |  \- com.sun.jersey:jersey-bundle:jar:1.11:compile
+[INFO] |     \- javax.ws.rs:jsr311-api:jar:1.1.1:compile
+[INFO] +- com.renrendai:cmbc-sdk:jar:3.0-SNAPSHOT:compile
+[INFO] |  +- log4j:log4j:jar:1.2.17:compile
+[INFO] |  +- javax.servlet:jstl:jar:1.2:compile
+[INFO] |  \- commons-io:commons-io:jar:2.3:compile
+[INFO] +- com.renrendai:renrendai-cmbc:jar:3.0-SNAPSHOT:compile
+[INFO] +- com.renrendai.messageCenter:message-rely:jar:0.0.1-SNAPSHOT:compile
+[INFO] |  \- com.plat.framework:plat-framework-bean:jar:2.0-SNAPSHOT:compile
+[INFO] +- com.we.paycenter:we-paycenter-rely:jar:1.1.0:compile
+[INFO] |  \- com.plat.framework:plat-framework-development:jar:2.0-SNAPSHOT:compile
+[INFO] |     +- org.apache.shiro:shiro-spring:jar:1.2.2:compile
+[INFO] |     |  +- org.apache.shiro:shiro-core:jar:1.2.2:compile
+[INFO] |     |  \- org.apache.shiro:shiro-web:jar:1.2.2:compile
+[INFO] |     +- javassist:javassist:jar:3.12.1.GA:compile
+[INFO] |     \- com.google.guava:guava:jar:12.0.1:compile
+[INFO] |        \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.we.p2p:p2p-rely:jar:0.0.1-SNAPSHOT:compile
+[INFO] +- org.apache.struts:struts2-core:jar:2.3.16.3:compile
+[INFO] |  +- org.apache.struts.xwork:xwork-core:jar:2.3.16.3:compile
+[INFO] |  |  \- asm:asm-commons:jar:3.3:compile
+[INFO] |  |     \- asm:asm-tree:jar:3.3:compile
+[INFO] |  +- org.freemarker:freemarker:jar:2.3.19:compile
+[INFO] |  +- ognl:ognl:jar:3.0.6:compile
+[INFO] |  \- commons-fileupload:commons-fileupload:jar:1.3.1:compile
+[INFO] +- org.apache.struts:struts2-spring-plugin:jar:2.3.16.3:runtime
+[INFO] +- org.apache.struts:struts2-json-plugin:jar:2.3.16.3:runtime
+[INFO] +- org.springframework:spring-tx:jar:3.1.1.RELEASE:compile
+[INFO] |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] +- org.springframework:spring-orm:jar:3.1.1.RELEASE:compile
+[INFO] |  \- org.springframework:spring-jdbc:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework.security:spring-security-config:jar:3.1.1.RELEASE:compile
+[INFO] |  \- org.springframework.security:spring-security-core:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-core:jar:3.1.1.RELEASE:compile
+[INFO] |  \- org.springframework:spring-asm:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-expression:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-context-support:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-web:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework.security:spring-security-taglibs:jar:3.1.1.RELEASE:compile
+[INFO] |  +- org.springframework.security:spring-security-web:jar:3.1.1.RELEASE:compile
+[INFO] |  \- org.springframework.security:spring-security-acl:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-aop:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-context:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-beans:jar:3.1.1.RELEASE:compile
+[INFO] +- org.springframework:spring-aspects:jar:3.1.1.RELEASE:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.4:compile
+[INFO] +- org.slf4j:slf4j-simple:jar:1.6.4:compile
+[INFO] +- org.aspectj:aspectjrt:jar:1.6.8:compile
+[INFO] +- org.aspectj:aspectjweaver:jar:1.6.10:compile
+[INFO] +- net.sourceforge.jexcelapi:jxl:jar:2.5.7:compile
+[INFO] +- opensymphony:quartz-all:jar:1.6.1:compile
+[INFO] +- commons-dbcp:commons-dbcp:jar:1.4:test
+[INFO] +- javax.servlet:javax.servlet-api:jar:3.0.1:provided
+[INFO] +- javax.servlet.jsp:jsp-api:jar:2.2.1-b02:compile
+[INFO] +- org.javassist:javassist:jar:3.16.1-GA:compile
+[INFO] +- cglib:cglib:jar:2.2:compile
+[INFO] |  \- asm:asm:jar:3.1:compile
+[INFO] +- org.apache.poi:poi:jar:3.6:compile
+[INFO] +- org.apache.poi:poi-ooxml-schemas:jar:3.6:compile
+[INFO] |  +- org.apache.xmlbeans:xmlbeans:jar:2.3.0:compile
+[INFO] |  |  \- stax:stax-api:jar:1.0.1:compile
+[INFO] |  \- org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:jar:1.0:compile
+[INFO] +- org.apache.poi:poi-ooxml:jar:3.6:compile
+[INFO] +- com.googlecode.sslplugin:struts2-ssl-plugin:jar:1.2.1:compile
+[INFO] +- commons-beanutils:commons-beanutils:jar:1.8.3:compile
+[INFO] +- commons-digester:commons-digester:jar:2.1:compile
+[INFO] +- com.lowagie:itext:jar:2.0.8:compile
+[INFO] |  \- bouncycastle:bcmail-jdk14:jar:138:compile
+[INFO] +- com.itextpdf:itextpdf:jar:5.1.3:compile
+[INFO] +- com.itextpdf:itext-asian:jar:5.2.0:compile
+
