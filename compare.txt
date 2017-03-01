@@ -116,7 +116,7 @@
 [INFO] |  +- javax.servlet:jstl:jar:1.2:compile
 [INFO] |  \- commons-io:commons-io:jar:2.3:compile
 [INFO] +- com.renrendai:renrendai-cmbc:jar:3.0-SNAPSHOT:compile
-[INFO] +- com.renrendai.messageCenter:message-rely:jar:0.0.1-SNAPSHOT:compile
+[INFO] +- com.renrendai.messageCenter:message-rely:jar:0.0.2-SNAPSHOT:compile
 [INFO] |  \- com.plat.framework:plat-framework-bean:jar:2.0-SNAPSHOT:compile
 [INFO] +- com.we.paycenter:we-paycenter-rely:jar:1.1.0:compile
 [INFO] |  \- com.plat.framework:plat-framework-development:jar:2.0-SNAPSHOT:compile
@@ -179,4 +179,3 @@
 [INFO] |  \- bouncycastle:bcmail-jdk14:jar:138:compile
 [INFO] +- com.itextpdf:itextpdf:jar:5.1.3:compile
 [INFO] +- com.itextpdf:itext-asian:jar:5.2.0:compile
-
