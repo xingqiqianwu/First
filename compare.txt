@@ -31,7 +31,7 @@
 [INFO] |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.5:compile
 [INFO] |  |  +- org.slf4j:log4j-over-slf4j:jar:1.7.5:compile
 [INFO] |  |  +- org.perf4j:perf4j:jar:0.9.16:compile
-[INFO] |  |  +- jstl:jstl:jar:1.2:compile
+[INFO] |  |  +- jstl:jstl:jar:1.2:compileaaaa
 [INFO] |  |  +- org.sitemesh:sitemesh:jar:3.0-alpha-2:compile
 [INFO] |  |  \- org.apache.commons:commons-pool2:jar:2.0:compile
 [INFO] |  +- com.renrendai.framework:framework-all:jar:2.1.0:compile
